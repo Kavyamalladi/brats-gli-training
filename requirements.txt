@@ -1,0 +1,12 @@
+torch>=2.1
+monai[all]
+nibabel
+scikit-image
+scipy
+numpy
+pyyaml
+tqdm
+scikit-fuzzy
+pandas
+seaborn
+matplotlib

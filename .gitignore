@@ -1,0 +1,22 @@
+# Local datasets and generated checkpoints
+data/
+cache/
+checkpoints/
+outputs/
+*.nii.gz
+*.npy
+*.ckpt
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
